@@ -1,0 +1,13 @@
+{
+  "chainId": 101,
+  "address": "E46TFDLrrMGARBnoSrbshomHBR6MCf3amv3YDeYEpump",
+  "name": "Romancoin",
+  "symbol": "ROMAN",
+  "decimals": 9,
+  "logoURI": "https://i.imgur.com/mF4rTbu.png",
+  "tags": ["community", "meme", "pumpfun", "roman", "bitcoin-themed", "romancoin", "roman1", "OGcoin", "theoriginalcoin"],
+  "extensions": {
+    "description": "280 BC ➔ 2025 AD. The original coin. Now on Solana.",
+    "website": "https://linktr.ee/romancoins"
+  }
+}
